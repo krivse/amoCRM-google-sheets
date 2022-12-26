@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-integration-amocrm",
+  "private_key_id": "ffcf5cbc5167c7c1a7b615699a50a4bef0a23574",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFA0PZhK15o+eb\npnKvhxKs/C0Xd9mUqXeJY1hmP1aBE7XTVr62Ve9bqrTtAc0e5qCyIjacRJhgAP2K\nxCJPx4uYXD+YpLDnC31Sm2HAyFkrJmsP68wb8/0YJfKHDWbIZ5GHbYWNOlrl0dMp\n91XCDZ/t4YV0si7Oy9qfajK5Nt9879+YFR388dg+q92LQNtmLnhbxNuHuNr9gULE\n/1/Eee9RANckly/0pTvXK3bCImElUpwe3RMv0HoOhPDTNNjKWZ9JnNJsb0eb9wwV\nmCFcKZbaafzkt9UcntDN8eOst1Ee5JPps0y9dICsl7/eYf3zjlM1HHK1pZnvtBWJ\nKtdLsKm/AgMBAAECggEAE+MV/MWTW1WLwh8FsalBXdvg018iRArtSZ2RJVUcbtAm\nCQzXGIHJNSggtlH5ujZOn1yrxY95ECvZbCILUqFSepFJTCfHwbLbtjSAJB01PxFU\nOlmzk1jIQiFGf5J/PxiRTKnmEtECrvNEzRYt/nYwoCslNRfteKuESJZIQ4ECA1Ln\n9BDFm8TA0j7Vw1Vv8ghPzZreiAmh+ks42lTsV/faYwOirohwp9piChF4UfYwcMc+\nU3ZYaC+sgL1qFY4KoFq7hLkHN+0nwjstz3ibm2xA0jJiTtMlUEnR2vjHxe1+OyxZ\ntSNdUq9puVrqcGdMrPJudbElxoiglAdO4TlhCGGuIQKBgQDzIstAwj4JHp+7uOx+\nKwaFtPaF+87KGbBzR0I4G1ZCIC6/RPVTPGAjUWAGeqJeqKvnJjKwZr31UTI2wdy/\n5JJQ9ZuXb8E9lorLZe212V8jva+/8YvuzYqGmbo1dd11w+4yU4XnjZYPt60mUIWc\nWTNcNa8l0+Fkz5nN+hE6WSDCIQKBgQDPb78DOmrhkHm4wLIAB9CEsoFSZXZmacHx\n99YqboZv13zf+B9tOO+ZU9Ykg2IevKsTXV4tXO4xrgWNbpRmRrhQ2F238P+MFhCi\ny+/gx+2sgHYI0SOm3iMMFYGVEo/wfy3+T1b1FHFlh9zjwzvwwMIJs/ax/XotAylk\n7cMiexOv3wKBgQCDm9rvw/U2lIgcYl5JcVrHd4xWPFbUWRGFZRY4LrwDcU48pMQy\n+SSFGaBkAW/w01ax+aBIkmTS7M/Eii3HBaAaCMjfMVQl1V5t+U+yNubj/uKqgMKh\nUktgzsfX9mQZQiSmw0VhcOfAvEkSy1V3q2U8zaZwUH/aRPHZaDp5HhO4YQKBgQCD\n5XLYE6H4MMwkvGmx+UYNyg7OnHMvZVmLiGGl80cKAEOHiZY59bTrklIcP2n5T0+b\n7Yc/YtKVxigDqOc1LQxvY1Qb7GIg6brEONYa4CTwxXHH42s+5An22gneBsJ9UfCl\nvj71cH016LB8JhyL1ZTLZKGcxSaVTmhYo5Gq8AUxkwKBgGSdfQvMolxzy9vwL+dx\nY88tlf5uBCTTbT6OIo+U82R9pt+QwGh1N3/U9GOgEwGNQ8maWVo1v7veKotKUTjn\nRc7LuySLzVaD9FF1GbLpvSazIotsUouKqvd5f5FFK4M8sYGfYD2QV91c54kJn8SW\nITNeQoUR3CulZYsIrccAolWn\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-719@project-integration-amocrm.iam.gserviceaccount.com",
+  "client_id": "104104177023413098590",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-719%40project-integration-amocrm.iam.gserviceaccount.com"
+}
